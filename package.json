@@ -1,5 +1,5 @@
 {
-  "name": "techNotes App",
+  "name": "technotes-app",
   "version": "1.0.0",
   "description": "techNotes MERN Project",
   "main": "server.js",
